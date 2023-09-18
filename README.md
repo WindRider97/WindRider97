@@ -3,5 +3,5 @@
 # About me!
 
 
-I'm currently studying Software Development at [HE-Arc](https://github.com/HE-Arc) in Neuchâtel, Switzerland. 
+I'm currently working on my master's degree in Software Development and Cybersecurity at the HES-SO.
 
